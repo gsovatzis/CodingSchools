@@ -1,0 +1,11 @@
+C:\Users\gsova\source\repos\FactoryExample\FactoryExample\bin\Debug\netcoreapp2.1\FactoryExample.deps.json
+C:\Users\gsova\source\repos\FactoryExample\FactoryExample\bin\Debug\netcoreapp2.1\FactoryExample.runtimeconfig.json
+C:\Users\gsova\source\repos\FactoryExample\FactoryExample\bin\Debug\netcoreapp2.1\FactoryExample.runtimeconfig.dev.json
+C:\Users\gsova\source\repos\FactoryExample\FactoryExample\bin\Debug\netcoreapp2.1\FactoryExample.dll
+C:\Users\gsova\source\repos\FactoryExample\FactoryExample\obj\Debug\netcoreapp2.1\FactoryExample.AssemblyInfoInputs.cache
+C:\Users\gsova\source\repos\FactoryExample\FactoryExample\obj\Debug\netcoreapp2.1\FactoryExample.AssemblyInfo.cs
+C:\Users\gsova\source\repos\FactoryExample\FactoryExample\bin\Debug\netcoreapp2.1\FactoryExample.pdb
+C:\Users\gsova\source\repos\FactoryExample\FactoryExample\obj\Debug\netcoreapp2.1\FactoryExample.dll
+C:\Users\gsova\source\repos\FactoryExample\FactoryExample\obj\Debug\netcoreapp2.1\FactoryExample.pdb
+C:\Users\gsova\source\repos\FactoryExample\FactoryExample\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\gsova\source\repos\FactoryExample\FactoryExample\obj\Debug\netcoreapp2.1\FactoryExample.csprojAssemblyReference.cache
