@@ -9,3 +9,16 @@ C:\Users\gsova\source\repos\FactoryExample\FactoryExample\obj\Debug\netcoreapp2.
 C:\Users\gsova\source\repos\FactoryExample\FactoryExample\obj\Debug\netcoreapp2.1\FactoryExample.pdb
 C:\Users\gsova\source\repos\FactoryExample\FactoryExample\bin\Debug\netcoreapp2.1\appsettings.json
 C:\Users\gsova\source\repos\FactoryExample\FactoryExample\obj\Debug\netcoreapp2.1\FactoryExample.csprojAssemblyReference.cache
+C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\obj\Debug\netcoreapp2.1\FactoryExample.csprojAssemblyReference.cache
+C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\obj\Debug\netcoreapp2.1\FactoryExample.AssemblyInfoInputs.cache
+C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\obj\Debug\netcoreapp2.1\FactoryExample.AssemblyInfo.cs
+C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\obj\Debug\netcoreapp2.1\FactoryExample.csproj.CoreCompileInputs.cache
+C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\obj\Debug\netcoreapp2.1\FactoryExample.dll
+C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\obj\Debug\netcoreapp2.1\FactoryExample.pdb
+C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\bin\Debug\netcoreapp2.1\appSettings.json
+C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\bin\Debug\netcoreapp2.1\FactoryExample.deps.json
+C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\bin\Debug\netcoreapp2.1\FactoryExample.runtimeconfig.json
+C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\bin\Debug\netcoreapp2.1\FactoryExample.runtimeconfig.dev.json
+C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\bin\Debug\netcoreapp2.1\FactoryExample.dll
+C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\bin\Debug\netcoreapp2.1\FactoryExample.pdb
+C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\obj\Debug\netcoreapp2.1\FactoryExample.genruntimeconfig.cache
