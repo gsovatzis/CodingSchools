@@ -1,0 +1,12 @@
+C:\Users\gsovatzis\source\repos\CodingSchools\SingletonExample\SingletonExample\bin\Debug\netcoreapp3.1\SingletonExample.exe
+C:\Users\gsovatzis\source\repos\CodingSchools\SingletonExample\SingletonExample\bin\Debug\netcoreapp3.1\SingletonExample.deps.json
+C:\Users\gsovatzis\source\repos\CodingSchools\SingletonExample\SingletonExample\bin\Debug\netcoreapp3.1\SingletonExample.runtimeconfig.json
+C:\Users\gsovatzis\source\repos\CodingSchools\SingletonExample\SingletonExample\bin\Debug\netcoreapp3.1\SingletonExample.runtimeconfig.dev.json
+C:\Users\gsovatzis\source\repos\CodingSchools\SingletonExample\SingletonExample\bin\Debug\netcoreapp3.1\SingletonExample.dll
+C:\Users\gsovatzis\source\repos\CodingSchools\SingletonExample\SingletonExample\bin\Debug\netcoreapp3.1\SingletonExample.pdb
+C:\Users\gsovatzis\source\repos\CodingSchools\SingletonExample\SingletonExample\obj\Debug\netcoreapp3.1\SingletonExample.AssemblyInfoInputs.cache
+C:\Users\gsovatzis\source\repos\CodingSchools\SingletonExample\SingletonExample\obj\Debug\netcoreapp3.1\SingletonExample.AssemblyInfo.cs
+C:\Users\gsovatzis\source\repos\CodingSchools\SingletonExample\SingletonExample\obj\Debug\netcoreapp3.1\SingletonExample.csproj.CoreCompileInputs.cache
+C:\Users\gsovatzis\source\repos\CodingSchools\SingletonExample\SingletonExample\obj\Debug\netcoreapp3.1\SingletonExample.dll
+C:\Users\gsovatzis\source\repos\CodingSchools\SingletonExample\SingletonExample\obj\Debug\netcoreapp3.1\SingletonExample.pdb
+C:\Users\gsovatzis\source\repos\CodingSchools\SingletonExample\SingletonExample\obj\Debug\netcoreapp3.1\SingletonExample.genruntimeconfig.cache
