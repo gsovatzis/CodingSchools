@@ -7,3 +7,12 @@ C:\Users\gsovatzis\source\repos\TestEshop\TestEshop.Client\obj\Debug\TestEshop.C
 C:\Users\gsovatzis\source\repos\TestEshop\TestEshop.Client\obj\Debug\TestEshop.Client.csproj.CopyComplete
 C:\Users\gsovatzis\source\repos\TestEshop\TestEshop.Client\obj\Debug\TestEshop.Client.exe
 C:\Users\gsovatzis\source\repos\TestEshop\TestEshop.Client\obj\Debug\TestEshop.Client.pdb
+C:\Users\gsovatzis\source\repos\CodingSchools\TestEshop\TestEshop.Client\bin\Debug\TestEshop.Client.exe.config
+C:\Users\gsovatzis\source\repos\CodingSchools\TestEshop\TestEshop.Client\bin\Debug\TestEshop.Client.exe
+C:\Users\gsovatzis\source\repos\CodingSchools\TestEshop\TestEshop.Client\bin\Debug\TestEshop.Client.pdb
+C:\Users\gsovatzis\source\repos\CodingSchools\TestEshop\TestEshop.Client\bin\Debug\TestEshop.Models.dll
+C:\Users\gsovatzis\source\repos\CodingSchools\TestEshop\TestEshop.Client\bin\Debug\TestEshop.Models.pdb
+C:\Users\gsovatzis\source\repos\CodingSchools\TestEshop\TestEshop.Client\obj\Debug\TestEshop.Client.csproj.CoreCompileInputs.cache
+C:\Users\gsovatzis\source\repos\CodingSchools\TestEshop\TestEshop.Client\obj\Debug\TestEshop.Client.csproj.CopyComplete
+C:\Users\gsovatzis\source\repos\CodingSchools\TestEshop\TestEshop.Client\obj\Debug\TestEshop.Client.exe
+C:\Users\gsovatzis\source\repos\CodingSchools\TestEshop\TestEshop.Client\obj\Debug\TestEshop.Client.pdb
