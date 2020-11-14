@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<QueryDefinition>
+   <Queries>
+      <Query>
+         <QueryName>GetAll</QueryName>
+         <SQLQuery>SELECT * FROM Suppliers</SQLQuery>
+         <QueryParameters></QueryParameters>
+      </Query>
+      <Query>
+         <QueryName>GetById</QueryName>
+         <SQLQuery>SELECT * FROM Suppliers WHERE Id = @Id</SQLQuery>
+         <QueryParameters>
+            <QueryParameter>
+               <Name>@Id</Name>
+               <Type>int</Type>
+            </QueryParameter>
+         </QueryParameters>
+      </Query>
+      <Query>
+         <QueryName>Insert</QueryName>
+         <SQLQuery>INSERT INTO Suppliers (CreatedBy, UpdatedBy, DateCreated, DateUpdated, Supplier_Name, Supplier_Address) 
+                   VALUES ('system', 'system', GETDATE(), GETDATE(), @Supplier_Name, @Supplier_Address)</SQLQuery>
+         <QueryParameters>
+            <QueryParameter>
+               <Name>@Supplier_Name</Name>
+               <Type>string</Type>
+            </QueryParameter>
+            <QueryParameter>
+               <Name>@Supplier_Address</Name>
+               <Type>string</Type>
+            </QueryParameter>
+         </QueryParameters>
+      </Query>
+   </Queries>
+</QueryDefinition>

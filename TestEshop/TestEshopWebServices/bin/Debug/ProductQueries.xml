@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<QueryDefinition>
+   <Queries>
+      <Query>
+         <QueryName>GetAll</QueryName>
+         <SQLQuery>SELECT * FROM Products</SQLQuery>
+         <QueryParameters></QueryParameters>
+      </Query>
+      <Query>
+         <QueryName>GetById</QueryName>
+         <SQLQuery>SELECT * FROM Products WHERE Id = @Id</SQLQuery>
+         <QueryParameters>
+            <QueryParameter>
+               <Name>@Id</Name>
+               <Type>int</Type>
+            </QueryParameter>
+         </QueryParameters>
+      </Query>
+      <Query>
+         <QueryName>Insert</QueryName>
+         <SQLQuery>INSERT INTO Products (CreatedBy, UpdatedBy, DateCreated, DateUpdated, SKU, Product_Name, Supplier_Id, Price) 
+                   VALUES ('system', 'system', GETDATE(), GETDATE(), @SKU, @Product_Name, NULL, @Price)</SQLQuery>
+         <QueryParameters>
+            <QueryParameter>
+               <Name>@SKU</Name>
+               <Type>string</Type>
+            </QueryParameter>
+            <QueryParameter>
+               <Name>@Product_Name</Name>
+               <Type>string</Type>
+            </QueryParameter>
+            <QueryParameter>
+               <Name>@Price</Name>
+               <Type>decimal</Type>
+            </QueryParameter>
+         </QueryParameters>
+      </Query>
+   </Queries>
+</QueryDefinition>
