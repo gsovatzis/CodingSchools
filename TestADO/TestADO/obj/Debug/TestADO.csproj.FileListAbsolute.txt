@@ -8,3 +8,13 @@ C:\Users\gsovatzis\source\repos\TestADO\TestADO\obj\Debug\TestADO.pdb
 C:\Users\gsovatzis\source\repos\TestADO\TestADO\bin\Debug\System.Data.SqlClient.dll
 C:\Users\gsovatzis\source\repos\TestADO\TestADO\bin\Debug\System.Data.SqlClient.xml
 C:\Users\gsovatzis\source\repos\TestADO\TestADO\obj\Debug\TestADO.csproj.CopyComplete
+C:\Users\gsovatzis\source\repos\CodingSchools\TestADO\TestADO\bin\Debug\TestADO.exe.config
+C:\Users\gsovatzis\source\repos\CodingSchools\TestADO\TestADO\bin\Debug\TestADO.exe
+C:\Users\gsovatzis\source\repos\CodingSchools\TestADO\TestADO\bin\Debug\TestADO.pdb
+C:\Users\gsovatzis\source\repos\CodingSchools\TestADO\TestADO\bin\Debug\System.Data.SqlClient.dll
+C:\Users\gsovatzis\source\repos\CodingSchools\TestADO\TestADO\bin\Debug\System.Data.SqlClient.xml
+C:\Users\gsovatzis\source\repos\CodingSchools\TestADO\TestADO\obj\Debug\TestADO.csprojAssemblyReference.cache
+C:\Users\gsovatzis\source\repos\CodingSchools\TestADO\TestADO\obj\Debug\TestADO.csproj.CoreCompileInputs.cache
+C:\Users\gsovatzis\source\repos\CodingSchools\TestADO\TestADO\obj\Debug\TestADO.csproj.CopyComplete
+C:\Users\gsovatzis\source\repos\CodingSchools\TestADO\TestADO\obj\Debug\TestADO.exe
+C:\Users\gsovatzis\source\repos\CodingSchools\TestADO\TestADO\obj\Debug\TestADO.pdb

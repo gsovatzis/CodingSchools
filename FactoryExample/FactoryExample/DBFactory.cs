@@ -26,7 +26,9 @@ namespace FactoryExample
                 case "mongodb":
                     return new MongoDB<T>();
 
-                default:
+                  case "oracle":
+                     return new Oracle<T>();
+            default:
                     throw new Exception("Unknown database type");
             }
         }

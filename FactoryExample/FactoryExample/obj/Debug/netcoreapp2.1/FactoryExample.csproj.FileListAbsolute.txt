@@ -21,4 +21,3 @@ C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\bin\
 C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\bin\Debug\netcoreapp2.1\FactoryExample.runtimeconfig.dev.json
 C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\bin\Debug\netcoreapp2.1\FactoryExample.dll
 C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\bin\Debug\netcoreapp2.1\FactoryExample.pdb
-C:\Users\gsovatzis\source\repos\CodingSchools\FactoryExample\FactoryExample\obj\Debug\netcoreapp2.1\FactoryExample.genruntimeconfig.cache
