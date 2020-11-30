@@ -1,0 +1,7 @@
+C:\Users\gsovatzis\source\repos\TestLINQ2Dataset\TestLINQ2Dataset\bin\Debug\TestLINQ2Dataset.exe.config
+C:\Users\gsovatzis\source\repos\TestLINQ2Dataset\TestLINQ2Dataset\bin\Debug\TestLINQ2Dataset.exe
+C:\Users\gsovatzis\source\repos\TestLINQ2Dataset\TestLINQ2Dataset\bin\Debug\TestLINQ2Dataset.pdb
+C:\Users\gsovatzis\source\repos\TestLINQ2Dataset\TestLINQ2Dataset\obj\Debug\TestLINQ2Dataset.csprojAssemblyReference.cache
+C:\Users\gsovatzis\source\repos\TestLINQ2Dataset\TestLINQ2Dataset\obj\Debug\TestLINQ2Dataset.csproj.CoreCompileInputs.cache
+C:\Users\gsovatzis\source\repos\TestLINQ2Dataset\TestLINQ2Dataset\obj\Debug\TestLINQ2Dataset.exe
+C:\Users\gsovatzis\source\repos\TestLINQ2Dataset\TestLINQ2Dataset\obj\Debug\TestLINQ2Dataset.pdb
